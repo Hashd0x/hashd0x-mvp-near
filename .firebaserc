@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "vself-dev",
+    "prod": "vself-prod",
+    "hashdox": "hashdox",
+    "default": "vself-prod"
+  }
+}
